@@ -1,0 +1,15 @@
+{
+  "datos": {
+    "producto": "ppf-editor",
+    "version": "0.9.0",
+    "fecha": "2026-10-18",
+    "notas": [
+      "Capas por velocidad: franja por capa con su nombre real, velocidad en la lista y panel con solo y silenciar",
+      "Iconos en los botones",
+      "Amplificar, Igualar, espectrograma y vecina más cercana",
+      "El teclado suena como YEM"
+    ],
+    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.0/PPF-Editor-Setup-0.9.0.exe"
+  },
+  "firma": "ywkYA/dolGOPXLCzN/+ZS9an7juynxI74B7NOix1MoTjwBbat49IfpgjrPrusbGNQXb40HvqQQHd7EtCXIWWBQ=="
+}
