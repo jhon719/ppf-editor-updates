@@ -1,17 +1,19 @@
 {
   "datos": {
     "producto": "ppf-editor",
-    "version": "0.9.2",
-    "fecha": "2026-10-18",
+    "version": "0.9.3",
+    "fecha": "2026-10-28",
     "notas": [
-      "Actualizar ahora: el editor baja, comprueba e instala la versión nueva solo",
-      "Capas por velocidad e iconos en los botones"
+      "Nuevo: oír los estilos del pack. El botón «Oír los N estilos» toca los estilos del .ppf sección por sección con las voces del propio pack; las voces de fábrica suenan con un sintetizador aproximado, un SoundFont .sf2 que elijas o tu teclado por MIDI.",
+      "Nuevo: activa tu licencia con una clave (XXXX-XXXX-XXXX) en Ayuda, «Licencia…». Se liga a tu equipo y se renueva sola; «Desactivar este equipo» la libera para usarla en otro PC. Las licencias en archivo de siempre siguen valiendo.",
+      "Nuevo: el plan por plazos funciona con puntos de trabajo. Guardar, Extraer, Importar y Zonas gastan puntos según lo que pesan (tamaño del .ppf y nº de muestras); abrir, mirar, editar bucles y oír estilos no cuestan nada. Verás tus puntos en la insignia y en «Licencia…», con la explicación y un ejemplo. La licencia completa no tiene límites.",
+      "Se actualiza sobre la versión anterior sin perder nada."
     ],
-    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.2/PPF-Editor-Setup-0.9.2.exe",
+    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.3/PPF-Editor-Setup-0.9.3.exe",
     "instalador": {
-      "sha256": "e25d2d4b1a4aebf74a994115793b1e8a1d5e7bcb2555b9f9887a3001250250f2",
-      "bytes": 80485578
+      "sha256": "16f50506c09c5f9e5758df2a1502f36fa80550b6a43fe642f656fead3a155577",
+      "bytes": 80523914
     }
   },
-  "firma": "wvaEhd1l9BgpZhv9PKSr1YgcPYP7+VCY9wgInEjFQlya1J90hcAKmQrTgGjWJg9LCEkO5tIRuLbQM6BoOZm4CA=="
+  "firma": "GIhrQ1Z9q7dF1kqbAXNXB0QgMpiJGaQ+NavHn317U+qL6TRLCQXhlFSuRfF3nnGopXDalkYJTO3js4h3IPDtAg=="
 }
