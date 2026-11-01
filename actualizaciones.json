@@ -1,20 +1,17 @@
 {
   "datos": {
     "producto": "ppf-editor",
-    "version": "0.9.6",
+    "version": "0.9.7",
     "fecha": "2026-11-01",
     "notas": [
-      "Nueva pantalla de carga SENKO: muestra la versión y los detalles de tu licencia.",
-      "Nuevo icono de la familia SENKO.",
-      "La empresa pasa a firmar como SENKO Systems.",
-      "Hablar con soporte desde el menú Ayuda.",
-      "La licencia se lee de forma más tolerante."
+      "Ahora se puede cargar la licencia aunque te llegue renombrada o dentro de un .zip (.senkolic, .txt o .zip).",
+      "La pantalla de carga se ve completa y centrada también en equipos sin tarjeta gráfica."
     ],
-    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.6/PPF-Editor-Setup-0.9.6.exe",
+    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.7/PPF-Editor-Setup-0.9.7.exe",
     "instalador": {
-      "sha256": "df5b2d6ee9aec7e1fca73f6d7990b57232c50f8aaeeaaedfe6c2680e8cd75ad1",
-      "bytes": 82633830
+      "sha256": "cc25cb75f37cb4a8a42ec9c6388ed29c85881c68aa4b8c6dcb12907a2a466410",
+      "bytes": 82633152
     }
   },
-  "firma": "rVOtwKzdhWBkjOqXNN6TaTXvTMQzZhCTxBpuHfIX7M/+FYXKdPLozm2w/ADM7DVi8OtDKj65XKVsH203eZn5Cg=="
+  "firma": "J5rsVrNsZNKE6+kydyx59dahgC3ZVvXPwEgBi9Vs934H2lptR/ovHwbSPBC/Rh+FqqbEo1zj+LZCvWvIOKZ8AA=="
 }
