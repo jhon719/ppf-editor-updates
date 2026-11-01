@@ -1,19 +1,20 @@
 {
   "datos": {
     "producto": "ppf-editor",
-    "version": "0.9.3",
-    "fecha": "2026-10-28",
+    "version": "0.9.6",
+    "fecha": "2026-11-01",
     "notas": [
-      "Nuevo: oír los estilos del pack. El botón «Oír los N estilos» toca los estilos del .ppf sección por sección con las voces del propio pack; las voces de fábrica suenan con un sintetizador aproximado, un SoundFont .sf2 que elijas o tu teclado por MIDI.",
-      "Nuevo: activa tu licencia con una clave (XXXX-XXXX-XXXX) en Ayuda, «Licencia…». Se liga a tu equipo y se renueva sola; «Desactivar este equipo» la libera para usarla en otro PC. Las licencias en archivo de siempre siguen valiendo.",
-      "Nuevo: el plan por plazos funciona con puntos de trabajo. Guardar, Extraer, Importar y Zonas gastan puntos según lo que pesan (tamaño del .ppf y nº de muestras); abrir, mirar, editar bucles y oír estilos no cuestan nada. Verás tus puntos en la insignia y en «Licencia…», con la explicación y un ejemplo. La licencia completa no tiene límites.",
-      "Se actualiza sobre la versión anterior sin perder nada."
+      "Nueva pantalla de carga SENKO: muestra la versión y los detalles de tu licencia.",
+      "Nuevo icono de la familia SENKO.",
+      "La empresa pasa a firmar como SENKO Systems.",
+      "Hablar con soporte desde el menú Ayuda.",
+      "La licencia se lee de forma más tolerante."
     ],
-    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.3/PPF-Editor-Setup-0.9.3.exe",
+    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.6/PPF-Editor-Setup-0.9.6.exe",
     "instalador": {
-      "sha256": "16f50506c09c5f9e5758df2a1502f36fa80550b6a43fe642f656fead3a155577",
-      "bytes": 80523914
+      "sha256": "df5b2d6ee9aec7e1fca73f6d7990b57232c50f8aaeeaaedfe6c2680e8cd75ad1",
+      "bytes": 82633830
     }
   },
-  "firma": "GIhrQ1Z9q7dF1kqbAXNXB0QgMpiJGaQ+NavHn317U+qL6TRLCQXhlFSuRfF3nnGopXDalkYJTO3js4h3IPDtAg=="
+  "firma": "rVOtwKzdhWBkjOqXNN6TaTXvTMQzZhCTxBpuHfIX7M/+FYXKdPLozm2w/ADM7DVi8OtDKj65XKVsH203eZn5Cg=="
 }
