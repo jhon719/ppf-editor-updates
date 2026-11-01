@@ -1,17 +1,16 @@
 {
   "datos": {
     "producto": "ppf-editor",
-    "version": "0.9.7",
+    "version": "0.9.8",
     "fecha": "2026-11-01",
     "notas": [
-      "Ahora se puede cargar la licencia aunque te llegue renombrada o dentro de un .zip (.senkolic, .txt o .zip).",
-      "La pantalla de carga se ve completa y centrada también en equipos sin tarjeta gráfica."
+      "La pantalla de carga también se ve completa y centrada en equipos sin tarjeta gráfica."
     ],
-    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.7/PPF-Editor-Setup-0.9.7.exe",
+    "descarga": "https://github.com/jhon719/ppf-editor-updates/releases/download/v0.9.8/PPF-Editor-Setup-0.9.8.exe",
     "instalador": {
-      "sha256": "cc25cb75f37cb4a8a42ec9c6388ed29c85881c68aa4b8c6dcb12907a2a466410",
-      "bytes": 82633152
+      "sha256": "372dba643c04bd438e25cd27e151cb35d6f87f5bedc37adb052ba4bcccc1fae0",
+      "bytes": 82632201
     }
   },
-  "firma": "J5rsVrNsZNKE6+kydyx59dahgC3ZVvXPwEgBi9Vs934H2lptR/ovHwbSPBC/Rh+FqqbEo1zj+LZCvWvIOKZ8AA=="
+  "firma": "+Q2/4R8AY66F6bfrG22cX7VDS57rcKWzMuaBtoOKonLpQ6xtHDw2Q49cBgO0DGmGwaTCo+0w42pDMlHaywPiBg=="
 }
